@@ -3,9 +3,9 @@
 Programming Language: Python
 IDE Utilized: Thonny
 
-Team Members: Ryan Berry, Kayla Gaynor, Matthew Kik, Aaron Kofman
+Team Members:
 
-Last Modified: 13 November 2025
+Last Modified:
 
 Usage: Program accepts a .txt files that must reside within the same directory as this program.There can be no more than 10 files opened
 After file is accepted and verified as a .txt text file, the file should only contain a set of Legal defined words.
